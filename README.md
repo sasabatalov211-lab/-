@@ -29,7 +29,6 @@
 
 <div align="center">
 
-<img src="minion.png" alt="Миньон" width="150"/>
 
 ### ⭐ Спасибо за внимание!
 
